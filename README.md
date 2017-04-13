@@ -3,13 +3,12 @@
 Name: hong wang
 
 ## Overview.
-...... A statement of the app concept and objectives (about a half-page) ........
+
 User can choose their own nickname and can left their messages.
 The system can show all users' messages.
 The system can show the time when user submited.
 User can delete their messages after submit.
 
- . . . . . List of user features (excluding user registration and authentication) . . . . 
  
  + Feature 1 : left message 
  + Feature 2 : left nickname
@@ -18,14 +17,13 @@ User can delete their messages after submit.
 
 
 ## Installation requirements.
-. . . .  List of software used to develop the app . . . . . . . 
+
 + ReactJS v15.3.0
 + Bootstrap 4
 + create-react-app tool
 + AJAX
 + etc 
 
-. . . . . . Also, explain (to a third party) what steps one must take to run your app after cloning it from the repository, e.g. any non-standard software installation; any environment setup; how to start app; where to view app in browser . . . . . . . At its simplest this may just be: 
 ## TO run the app
 
 + npm install
@@ -59,7 +57,6 @@ A diagram showing the app's hierarchical component design (see example below).
 
 ## Extra features
 
-. . . . . Briefly explain any non-standard features, functional or non-functional (e.g. user registration, authentication) developed for the app . . . . . .  
 
 ## Independent learning.
 
